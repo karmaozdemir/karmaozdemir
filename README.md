@@ -90,7 +90,7 @@ tutku: Temiz Kod, Otomasyon, Optimizasyon
 
 <p align="center">
   <a href="mailto:cagan@digituva.com">
-    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=mail">
+    <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://linkedin.com/in/caganozdemir">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
